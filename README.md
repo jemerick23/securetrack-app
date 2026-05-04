@@ -1,3 +1,29 @@
+# SecureTrack (Final Project)
+
+SecureTrack is a fully developed Android application designed to help users evaluate their cybersecurity habits and understand their personal risk level.
+
+## Final Features
+- Interactive questionnaire to assess security habits
+- Risk level calculation (Low, Medium, High)
+- Results screen with basic security recommendations
+- Multi-screen navigation using Android Activities
+
+## Technologies Used
+- Java
+- XML
+- Android Studio
+
+## Screenshots
+![Welcome](screenshots/welcome.png)
+![Questionnaire](screenshots/questionnaire.png)
+![Results](screenshots/results.png)
+
+## Project Documentation
+Full project outline and documentation available in the GitHub Wiki:  
+https://github.com/jemerick23/securetrack-app/wiki
+
+---
+
 # SecureTrack – Project Outline (Android App)
 
 ## 1. Project Description
@@ -73,4 +99,4 @@ The core functionality of SecureTrack will include:
 ### Long-Term Goals:
 - Integrate cloud-based storage  
 - Expand features and improve UI/UX  
-- Add real-time security insights (future enhancement)  
+- Add real-time security insights (future enhancement)
